@@ -19,7 +19,7 @@
 💻 Passionate **Web Developer** & BCA Student  
 🌱 Currently learning **Advanced JavaScript & Backend Development**  
 💡 Love building responsive and user-friendly web apps  
-🎯 Goal: Become a **Professional Software Developer**
+🎯 Goal: Become a **Professional Software Engineer**
 
 ---
 
@@ -56,11 +56,6 @@
 
 ---
 
-### 🤖 Web Scraping Automation
-⚡ Python + BeautifulSoup + Pandas  
-📊 Automated data extraction & reporting  
-
----
 
 ## 🏆 Achievements
 
