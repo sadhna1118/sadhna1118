@@ -62,7 +62,7 @@
 🥈 2nd Prize – AI Make-a-thon (Dell Technologies)  
 📜 AI & Employability Skills Certification  
 📊 80 Hours Training – ICA Edu Skills  
-
+ * Artificial Intelligence Certification | Infosys Springboard
 ---
 
 ## 📊 GitHub Analytics
