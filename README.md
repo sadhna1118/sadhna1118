@@ -21,7 +21,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/sadhna181106"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/sadhna1615b333b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://sadhna1118.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"></a>
   <a href="mailto:sadhanakumari181106@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
 </p>
