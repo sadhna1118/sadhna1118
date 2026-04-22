@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" alt="Work Working GIF by VeeFriends" src="https://github.com/user-attachments/assets/2e0a596c-3546-40ed-a3e3-4cf5d6e24294" />
+<img width="200" height="200" alt="Surprised Work From Home GIF by Persona" src="https://github.com/user-attachments/assets/3fd8cdd4-8e7f-408a-9f2e-787f17c4fc78" />
 </p>
 
 # 💫 Hi 👋, I'm Sadhna! 🌱 Passionate about Web Development | Aspiring Software Engineer |  Web & Python Enthusiast ✨ Always eager to learn, build, and grow in the tech world.
@@ -96,9 +96,14 @@
 ---
 
 ## ✨ Fun Fact
+
 💡 I enjoy turning ideas into real-world projects and continuously improving my skills 🚀  
+<p align="right">
+<img width="150" height="150" alt="Work Working GIF by VeeFriends" src="https://github.com/user-attachments/assets/7a1f2812-771c-41dd-a10c-01839c4ba90a" />
+</p>
 
 ---
+
 
 ⭐ **Check out my repositories and don’t forget to star!**
 
