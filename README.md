@@ -1,3 +1,7 @@
+<p align="center">
+<img width="200" height="200" alt="Work Working GIF by VeeFriends" src="https://github.com/user-attachments/assets/2e0a596c-3546-40ed-a3e3-4cf5d6e24294" />
+</p>
+
 # 💫 Hi 👋, I'm Sadhna! 🌱 Passionate about Web Development | Aspiring Software Engineer |  Web & Python Enthusiast ✨ Always eager to learn, build, and grow in the tech world.
 
 <p align="center">
