@@ -1,33 +1,106 @@
-<h2 align="center">👩‍💻 Hi, I'm Sadhna! 🌱 Passionate about Web Development | Aspiring Software Engineer |  Web & Python Enthusiast ✨ Always eager to learn, build, and grow in the tech world.</h2>
+# 💫 Hi 👋, I'm Sadhna! 🌱 Passionate about Web Development | Aspiring Software Engineer |  Web & Python Enthusiast ✨ Always eager to learn, build, and grow in the tech world.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;BCA+Student;Frontend+Enthusiast;Learning+Everyday+🚀" />
+</p>
+
+---
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+## 🚀 About Me
+💻 Passionate **Web Developer** & BCA Student  
+🌱 Currently learning **Advanced JavaScript & Backend Development**  
+💡 Love building responsive and user-friendly web apps  
+🎯 Goal: Become a **Professional Software Developer**
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/sadhna181106"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://sadhna1118.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"></a>
+  <a href="mailto:sadhanakumari181106@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
-###
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Portfolio Website
+✨ Personal responsive portfolio with modern UI  
+🔗 https://sadhna1118.github.io/portfolio  
+
+---
+
+### 🔐 Digital Trust & Safety Web App
+🛡️ Awareness platform for digital safety  
+🏆 **2nd Prize – AI Make-a-thon**
+
+---
+
+### 🤖 Web Scraping Automation
+⚡ Python + BeautifulSoup + Pandas  
+📊 Automated data extraction & reporting  
+
+---
+
+## 🏆 Achievements
+
+🥈 2nd Prize – AI Make-a-thon (Dell Technologies)  
+📜 AI & Employability Skills Certification  
+📊 80 Hours Training – ICA Edu Skills  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadhna1118&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhna1118&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sadhna1118&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadhna1118&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+## ✨ Fun Fact
+💡 I enjoy turning ideas into real-world projects and continuously improving my skills 🚀  
+
+---
+
+⭐ **Check out my repositories and don’t forget to star!**
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadhna1118/sadhna1118/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadhna1118/sadhna1118/output/github-snake-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadhna1118/sadhna1118/output/github-snake-light.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sadhna1118/sadhna1118/output/github-snake-light.svg">
 </picture>
