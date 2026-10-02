@@ -48,7 +48,7 @@ identity:
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" style="border-radius:12px;" alt="Cybersecurity & SOC Operations GIF" />
+      <img src="https://raw.githubusercontent.com/sadhna1118/sadhna1118/main/sadhna_intro.gif" width="100%" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0, 247, 255, 0.2);" alt="Sadhna Intro Video" />
     </td>
   </tr>
 </table>
