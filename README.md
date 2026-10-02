@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- TOP BANNER / HERO IMAGE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,25:0f172a,50:0284c7,75:38bdf8,100:6366f1&height=260&section=header&text=Hi%2C%20I'm%20Sadhna%20👋&fontSize=68&fontAlignY=38&fontColor=ffffff&desc=Cybersecurity%20%7C%20SOC%20%7C%20AI%20%26%20RAG%20%7C%20Full-Stack%20%7C%20Data%20Analytics&descAlignY=62&descFontSize=22&descColor=7dd3fc&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f172a,50:0284c7,75:38bdf8,100:6366f1&height=260&section=header&text=Hi,%20I'm%20Sadhna%20%F0%9F%91%8B&fontSize=68&fontAlignY=38&fontColor=ffffff&desc=Cybersecurity%20|%20SOC%20|%20AI%20%26%20RAG%20|%20Full-Stack%20|%20Data%20Analytics&descAlignY=62&descFontSize=22&descColor=7dd3fc&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/sadhna1118">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=🛡️+Aspiring+Cybersecurity+%26+SOC+Analyst;🤖+Building+Intelligent+AI+%26+RAG+Systems;🔎+Exploring+Threat+Hunting+%26+Incident+Response;💻+Full-Stack+%26+Python+Developer;📊+Transforming+Raw+Data+Into+Actionable+Intelligence;🚀+Always+Learning%2C+Building+%26+Securing+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%F0%9F%9B%A1%EF%B8%8F%20Aspiring%20Cybersecurity%20%26%20SOC%20Analyst;%F0%9F%A4%96%20Building%20Intelligent%20AI%20%26%20RAG%20Systems;%F0%9F%94%8E%20Exploring%20Threat%20Hunting%20%26%20Incident%20Response;%F0%9F%92%BB%20Full-Stack%20%26%20Python%20Developer;%F0%9F%93%8A%20Transforming%20Raw%20Data%20Into%20Actionable%20Intelligence;%F0%9F%9A%80%20Always%20Learning,%20Building%20%26%20Securing%20Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -302,7 +302,7 @@ flowchart LR
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:6366f1,25:38bdf8,50:0284c7,75:0f172a,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:38bdf8,50:0284c7,75:0f172a,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
 
   <p>⭐ <i>Crafted with passion for Cybersecurity & Artificial Intelligence by <b>Sadhna</b></i> ⭐</p>
 
