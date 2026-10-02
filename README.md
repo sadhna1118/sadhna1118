@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- TOP BANNER / HERO IMAGE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f172a,50:0284c7,75:38bdf8,100:6366f1&height=260&section=header&text=Hi,%20I'm%20Sadhna%20%F0%9F%91%8B&fontSize=68&fontAlignY=38&fontColor=ffffff&desc=Cybersecurity%20|%20SOC%20|%20AI%20%26%20RAG%20|%20Full-Stack%20|%20Data%20Analytics&descAlignY=62&descFontSize=22&descColor=7dd3fc&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/sadhna1118/sadhna1118/main/header_banner.svg" width="100%" alt="Header Banner" />
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/sadhna1118">
@@ -302,7 +302,7 @@ flowchart LR
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:38bdf8,50:0284c7,75:0f172a,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/sadhna1118/sadhna1118/main/footer_banner.svg" width="100%" alt="Footer Banner" />
 
   <p>⭐ <i>Crafted with passion for Cybersecurity & Artificial Intelligence by <b>Sadhna</b></i> ⭐</p>
 

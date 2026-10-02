@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="100%" height="120">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="50%" stop-color="#0d172e"/>
+      <stop offset="100%" stop-color="#080e1c"/>
+    </linearGradient>
+
+    <linearGradient id="footerAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="35%" stop-color="#6366F1"/>
+      <stop offset="70%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#00F7FF"/>
+    </linearGradient>
+
+    <filter id="footerGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <pattern id="footerGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .footer-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 28px;
+      font-weight: 700;
+      fill: #ffffff;
+      letter-spacing: 0.5px;
+    }
+    .footer-sub {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      fill: #7dd3fc;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1000" height="120" rx="14" fill="url(#footerBg)"/>
+  <rect width="1000" height="120" rx="14" fill="url(#footerGrid)"/>
+
+  <!-- Top Glowing Accent Line -->
+  <rect x="100" y="2" width="800" height="2" rx="1" fill="url(#footerAccent)" filter="url(#footerGlow)"/>
+  <rect x="100" y="2" width="800" height="2" rx="1" fill="url(#footerAccent)"/>
+
+  <!-- Ambient Glow -->
+  <circle cx="500" cy="60" r="140" fill="#6366f1" opacity="0.1" filter="url(#footerGlow)"/>
+
+  <!-- Text -->
+  <text x="500" y="55" text-anchor="middle" class="footer-title">Thanks for visiting! 🚀</text>
+  <text x="500" y="85" text-anchor="middle" class="footer-sub">OPEN FOR SECURITY COLLABORATIONS &bull; RESEARCH &bull; INNOVATIVE PROJECTS</text>
+</svg>
